@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9557cf08997a187438d358ee159f402e
+timeCreated: 1511379017
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boundingBoxPrefab: {fileID: 1541521015164976, guid: 9db42f1bbae3e9f40ac595cb614ae5a1,
+      type: 2}
+  - menu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

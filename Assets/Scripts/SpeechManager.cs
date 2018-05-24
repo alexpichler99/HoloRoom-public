@@ -31,6 +31,7 @@ public class SpeechManager : MonoBehaviour {
 
     private void PlaceInFront()
     {
+        mainMenu.SetActive(true);
         mainMenu.transform.position = Camera.main.transform.position + Camera.main.transform.forward;
     }
 }
